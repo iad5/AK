@@ -1,6 +1,6 @@
 owner=336731491453370379
 prefix=AK
-game=AKplay
+game=..
 stayinchannel=true
 songinstatus=false
 token=NTU1OTI3NzkzMzk4MDU0OTEz.D2yU2w.jWwpm499ipR2KvcL_q1jKmWBq_w
