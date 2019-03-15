@@ -3,4 +3,4 @@ prefix=AK
 game=life is boring without songs.
 stayinchannel=true
 songinstatus=false
-token=NTU1OTI3NzkzMzk4MDU0OTEz.D2yknQ.V78IY2vPwNxjOkyocjDrlpnYZlA
+token=NTU1OTI3NzkzMzk4MDU0OTEz.D2ylWg.DZI8V_RTfom61yKUJxrbkUO6uW8
